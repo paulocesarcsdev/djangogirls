@@ -9,4 +9,5 @@ staticfiles
 myvenv
 db.sqlite3
 mysite/blog/
+
 myvenv/Include/
