@@ -6,3 +6,7 @@
 *pyc
 __pycache__
 staticfiles
+myvenv
+db.sqlite3
+mysite/blog/
+myvenv/Include/
