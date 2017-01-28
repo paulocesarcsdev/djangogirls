@@ -1,3 +1,4 @@
+#Condicional
 name = 'Sonja'
 if name == 'Ola':
     print('Hey Ola!')

@@ -1,3 +1,4 @@
+#Função e condicional
 def hi(name):
     if name == 'Ola':
         print('Hi Ola!')
@@ -5,4 +6,4 @@ def hi(name):
         print('Hi Sonja!')
     else:
         print('Hi anonumous!')
-hi()
+hi("Sonja")
